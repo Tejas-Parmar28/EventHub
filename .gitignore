@@ -14,3 +14,10 @@ dist/
 
 # OS files
 .DS_Store
+
+# Uploads & media files
+backend/Uploads/
+frontend/public/video/
+
+# Logs
+*.log
