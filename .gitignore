@@ -1,0 +1,16 @@
+# Node
+node_modules/
+
+# Environment files
+.env
+.env.*
+
+# Docker
+*.log
+
+# Build outputs
+build/
+dist/
+
+# OS files
+.DS_Store
